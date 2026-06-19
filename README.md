@@ -1,5 +1,5 @@
 # Hi, I'm Nikushhaa <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Nikushhaa&fontSize=70"/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
 <div align="center">
 
 ### 💻 Developer | JavaScript • Python • C# • AI • Web Development
