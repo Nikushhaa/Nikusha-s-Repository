@@ -1,5 +1,5 @@
-# Hi, I'm Nikushhaa 👋
-
+# Hi, I'm Nikushhaa <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Nikushhaa&fontSize=70"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 <div align="center">
 
 ### 💻 Developer | JavaScript • Python • C# • AI • Web Development
@@ -15,7 +15,7 @@ Building interactive applications, automation tools, AI projects, and modern web
 I'm a developer passionate about creating practical software projects and learning new technologies.
 
 I enjoy building:
-
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 - 🌐 Modern websites and web applications
 - 🤖 AI-powered assistants and automation tools
 - 🎮 Interactive games with intelligent systems
@@ -30,7 +30,7 @@ Currently focusing on improving my skills in:
 - Software architecture
 
 ---
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Nikushhaa;JavaScript+Developer;Python+Developer;AI+Builder;Game+Developer"/>
 # 🛠️ Technologies & Tools
 
 ### Languages
