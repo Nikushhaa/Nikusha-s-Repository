@@ -9,6 +9,27 @@ Building interactive applications, automation tools, AI projects, and modern web
 </div>
 
 ---
+# 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikushhaa&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikushhaa&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 📈 Activity
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikushhaa&theme=tokyonight)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -170,27 +191,6 @@ I enjoy challenging myself with projects that combine:
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikushhaa&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikushhaa&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# 📈 Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikushhaa&theme=tokyonight)
-
-</div>
-
----
 
 # 📫 Contact
 
